@@ -1,0 +1,7 @@
+Commands:
+
+1. make
+2. executable.exe
+3. name of file to drawing: picture.txt (for example)
+4. which number do you want to save: 1 (when I want to save first drawing)
+5. name of file to saving: my.txt (for example)
